@@ -1,0 +1,5 @@
+certi 2023.11.17
+charset-normalizer 3.3.2
+idna 3.6
+pip 23.3.2
+urllib3 2.1.0
